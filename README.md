@@ -21,7 +21,5 @@ $ git clone https://github.com/Yumi-XD/Efbe
 
 $ cd Efbe
 
-$ git pull
-
 $ python efbe.py
 
